@@ -224,4 +224,4 @@ Necrovision is available as a full free version for Windows, including all featu
 Ready to dive into the action? Download Necrovision now and join the fight against the forces of evil!
 
 ---
-**Last updated:** 2026-09-23 16:27:25 UTC
+**Last updated:** 2026-09-23 20:01:41 UTC
